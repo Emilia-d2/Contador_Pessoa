@@ -1,4 +1,4 @@
-#Wed Jun 29 09:43:42 BRT 2022
+#Wed Jun 29 17:03:51 BRT 2022
 base.0=C\:\\tools\\teste\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
